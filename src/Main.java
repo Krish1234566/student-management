@@ -21,7 +21,9 @@ public class Main {
             System.out.println("3: Get student By ID");
             System.out.println("4: Remove student");
             System.out.println("5: Update the student Details");
+            System.out.println("6: Get student by group");
             System.out.println("6: Exit");
+
             choice = sc.nextInt();
             switch (choice) {
                 case 1:
