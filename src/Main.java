@@ -27,7 +27,7 @@ public class Main {
 
             System.out.println("6: Get student by group");
 
-            System.out.println("6: Get student by group");
+
 
 
 
